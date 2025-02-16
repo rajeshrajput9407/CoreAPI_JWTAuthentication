@@ -6,3 +6,4 @@ Create JWT API
 Create Swagger
 Create JWT Token 
 Validate JWT Token in MiddleWare
+Role Also Varifying
